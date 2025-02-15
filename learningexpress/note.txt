@@ -1,0 +1,4 @@
+//creating your server
+1.first make a directory
+2.npm init -y : this would initialise a package.json
+3.npm install express : this would install express
